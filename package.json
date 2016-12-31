@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "jc": "index.js",
     "jsdoc-cli": "index.js"
   },
   "scripts": {
