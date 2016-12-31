@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "jdl": "index.js",
-    "docjs": "index.js"
+    "jc": "index.js",
+    "jsdoc-cli": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

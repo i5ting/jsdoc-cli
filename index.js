@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 var finalhandler = require('finalhandler')
 var http = require('http')
