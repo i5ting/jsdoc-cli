@@ -1,0 +1,28 @@
+{
+  "name": "jsdoc-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "jd": "index.js",
+    "jsdoc": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ting/jsdoc-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/jsdoc-cli/issues"
+  },
+  "homepage": "https://github.com/i5ting/jsdoc-cli#readme",
+  "dependencies": {
+    "finalhandler": "^0.5.1",
+    "serve-static": "^1.11.1"
+  }
+}
