@@ -1,3 +1,4 @@
+
 var finalhandler = require('finalhandler')
 var http = require('http')
 var serveStatic = require('serve-static')
@@ -12,3 +13,5 @@ var server = http.createServer(function onRequest (req, res) {
 
 // Listen
 server.listen(3006)
+
+require('open')('http://127.0.0.1:3006')
